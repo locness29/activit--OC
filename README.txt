@@ -1,0 +1,1 @@
+Une activité pour mettre en pratique les notions vus dans le cours, soit l'utilisation de Git et Github. Pour cette activité il faut créer un fichier README.txt et deux autres fichiers de notre choix.Nous devons partager le repository  sur Github 
